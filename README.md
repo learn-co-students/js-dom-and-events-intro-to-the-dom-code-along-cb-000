@@ -185,7 +185,7 @@ This is the _DOM tree_!
 When you're ready to leave this lab, run `learn` from the command line. If the
 test pass, enter `learn submit`. You'll then be prompted to move on.
 
-## Conclusion
+## Conclusionn
 
 We reviewed DOM nodes and their HTML sources, and we reviewed how the DOM is
 structured. We also looked at block and inline elements and their behaviors.
